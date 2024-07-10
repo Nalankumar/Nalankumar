@@ -1,4 +1,11 @@
 ### Hi there 👋
+---
+I'm Thirunalankumar. I am a fullstack developor, designer. I am interested to improve my skills on the vast technical world. I am developing random projects with the technologies I have learnt.
+
+### My skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,tailwind,mongodb,js,html,css,c,python)](https://skillicons.dev)
+
+
 
 <!--
 **Nalankumar/Nalankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
