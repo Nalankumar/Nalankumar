@@ -1,9 +1,15 @@
-<div id='header' align='center'>
-    <img src="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2" width='100' />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthirunalankumar%2F"/>
+    </div>
 </div>
+
+
+
 ## Hi there 👋
 ---
-I'm Thirunalankumar. I am a fullstack developor, designer. I am interested to improve my skills on the vast technical world. I am developing random projects with the technologies I have learnt.
+##### I'm Thirunalankumar. I am a fullstack developor, designer. I am interested to improve my skills on the vast technical world. I am developing random projects with the technologies I have learnt.
 ---
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,tailwind,mongodb,js,html,css,c,python)](https://skillicons.dev)
