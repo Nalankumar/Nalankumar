@@ -1,7 +1,10 @@
-### Hi there 👋
+<div id='header' align='center'>
+    <img src="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2" width='100' />
+</div>
+## Hi there 👋
 ---
 I'm Thirunalankumar. I am a fullstack developor, designer. I am interested to improve my skills on the vast technical world. I am developing random projects with the technologies I have learnt.
-
+---
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,tailwind,mongodb,js,html,css,c,python)](https://skillicons.dev)
 
