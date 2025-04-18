@@ -12,8 +12,6 @@ I'm Thirunalankumar. I am a fullstack developor, designer. I am interested to im
 ### 🚀 Tools I have used and learnt
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,tailwind,mongodb,js,html,css,c,python,mysql,aws,maven,npm,nodejs)](https://skillicons.dev)
 
-![Thirunalankumar's GitHub stats](https://github-readme-stats-eight-blond-40.vercel.app/api?username=Nalankumar&show_icons=true)
-
 <!--
 **Nalankumar/Nalankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
